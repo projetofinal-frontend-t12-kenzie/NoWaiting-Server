@@ -1,120 +1,83 @@
 {
   "users": [
-    {
-      "email": "kenzinho@mail.com",
-      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-      "name": "Kenzinho",
-      "age": 38,
-      "id": 1
-    },
-    {
-      "email": "tsunode@kenzie.com.br",
-      "password": "$2a$10$QXQVPw7XhD2RA2DUTBgy.ugte2Dlb4LHMd58rl.prAd4axbbJ5LHC",
-      "id": 2
+    { 
+      "name":"string",
+      "email":"string",
+      "password":"string",
+      "contact":"string",
+      "img":"string"
     }
   ],
-  "cities": [
+  "menu": [
     {
-      "name": "Belo Horizonte",
-      "state": "Minas Gerais",
-      "userId": 2,
-      "id": 1
+      "id": "1",
+      "name":"hamburguer",
+      "description":"Um uma delícia!",
+      "img":"",
+      "type":"Fast Food",
+      "price":"15"
     },
     {
-      "name": "Campinas",
-      "state": "São Paulo",
-      "userId": 2,
-      "id": 2
+      "id":"2",
+      "name":"Yellow Sky",
+      "description":"Muito refrescante!",
+      "img":"",
+      "type":"Bebidas",
+      "price":"10"
     },
     {
-      "name": "Campinas",
-      "state": "São Paulo",
-      "temperatura": 18,
-      "userId": 2,
-      "id": 3
+      "id":"3",
+      "name":"Bowl",
+      "description":"Um uma delícia!",
+      "img":"",
+      "type":"Veggi",
+      "price":"20"
     },
     {
-      "name": "São Paulo",
-      "state": "São Paulo",
-      "userId": 2,
-      "id": 1
+      "id":"4",
+      "name":"Sanduíche",
+      "description":"",
+      "img":"",
+      "type":"Fast Food",
+      "price":"10"
     },
     {
-      "name": "São José dos Campos",
-      "state": "São Paulo",
-      "userId": 2,
-      "id": 2
+      "id":"5",
+      "name":"Panqueca",
+      "description":"Um uma delícia!",
+      "img":"",
+      "type":"Sobremesas",
+      "price":"15"
     },
     {
-      "name": "Campinas",
-      "state": "São Paulo",
-      "userId": 2,
-      "id": 3
+      "id":"6",
+      "name":"Pasta no Molho",
+      "description":"Um uma delícia!",
+      "img":"",
+      "type":"Pasta",
+      "price":"15"
     },
     {
-      "name": "Ribeirão Preto",
-      "state": "São Paulo",
-      "userId": 1,
-      "id": 4
+      "id":"7",
+      "name":"Limonada",
+      "description":"Muito refrescante!",
+      "img":"",
+      "type":"Bebidas",
+      "price":"10"
     },
     {
-      "name": "São Bernardo do Campo",
-      "state": "Minas",
-      "userId": 1,
-      "id": 5
-    },
-    {
-      "name": "Belo Horizonte",
-      "state": "Minas Gerais",
-      "userId": 2,
-      "id": 6
-    },
-    {
-      "name": "rest",
-      "quan": "Minas Gerais",
-      "mesas": 2
-    },
-    {
-      "name": "Maragogi",
-      "state": "Alagoas",
-      "userId": 2,
-      "id": 8
-    },
-    {
-      "name": "Japaratinga",
-      "state": "Alagoas",
-      "userId": 2,
-      "id": 9
-    },
-    {
-      "name": "Guarulhos",
-      "state": "São Paulo",
-      "userId": 2,
-      "id": 10
-    },
-    {
-      "name": "São Pauloo",
-      "state": "São Paulo",
-      "userId": 1,
-      "id": 11
-    },
-    {
-      "name": "São Pauloo",
-      "state": "São Paulo",
-      "userId": 1,
-      "id": 12
-    },
-    {
-      "name": "Salvador",
-      "state": "Bahia",
-      "userId": 2,
-      "id": 13
-    },
-    {
-      "name": "Salvador",
-      "state": "Bahia",
-      "userId": 2,
-      "id": 14
+      "id":"8",
+      "name":"Gin Tônico",
+      "description":"Muito refrescante!",
+      "img":"",
+      "type":"Bebidas",
+      "price":"12"
     }
+  ],
+  "order":[
+  {
+    "id":"",
+    "requests":[]
+  }
   ]
 }
