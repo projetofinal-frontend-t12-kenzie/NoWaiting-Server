@@ -1,83 +1,79 @@
 {
   "users": [
-    { 
-      "name":"string",
-      "email":"string",
-      "password":"string",
-      "contact":"string",
-      "img":"string"
+    {
+      "email": "contato.gbernardo@gmail.com",
+      "password": "$2a$10$Ijqe1wGJ42IdfvPhpBrwbutY8VJE8/q6Znvg4.aYzoqyXbmCgv.ee",
+      "name": "Cantinho do sabor",
+      "contact": "21986368650",
+      "img": "https://avatars.githubusercontent.com/u/90667694?v=4",
+      "id": 1
     }
   ],
   "menu": [
     {
-      "id":1,
-      "name":"hamburguer",
-      "description":"Um uma delícia!",
-      "img":"https://lh3.googleusercontent.com/p/AF1QipM_Ca-n9gUMsNnfycFym2Sr6yEgk18A_lA9b4Iu=w768-h768-n-o-v1",
-      "type":"Fast Food",
-      "price":15
+      "id": 1,
+      "name": "hamburguer",
+      "description": "Um uma delícia!",
+      "img": "https://lh3.googleusercontent.com/p/AF1QipM_Ca-n9gUMsNnfycFym2Sr6yEgk18A_lA9b4Iu=w768-h768-n-o-v1",
+      "type": "Fast Food",
+      "price": 15
     },
     {
-      "id":2,
-      "name":"Yellow Sky",
-      "description":"Muito refrescante!",
-      "img":"https://br.jetss.com/wp-content/uploads/2021/02/Sexta-2-11.jpg",
-      "type":"Bebidas",
-      "price":10
+      "id": 2,
+      "name": "Yellow Sky",
+      "description": "Muito refrescante!",
+      "img": "https://br.jetss.com/wp-content/uploads/2021/02/Sexta-2-11.jpg",
+      "type": "Bebidas",
+      "price": 10
     },
     {
-      "id":3,
-      "name":"Bowl",
-      "description":"Um uma delícia!",
-      "img":"https://images.pexels.com/photos/2067473/pexels-photo-2067473.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "type":"Veggi",
-      "price":20
+      "id": 3,
+      "name": "Bowl",
+      "description": "Um uma delícia!",
+      "img": "https://images.pexels.com/photos/2067473/pexels-photo-2067473.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "type": "Veggi",
+      "price": 20
     },
     {
-      "id":4,
-      "name":"Sanduíche",
-      "description":"Um uma delícia!",
-      "img":"https://i0.wp.com/kreativv.com/wp-content/uploads/2020/02/white-cream-on-white-bowl-1633525.jpg?resize=1024%2C1536&ssl=1",
-      "type":"Fast Food",
-      "price":10
+      "id": 4,
+      "name": "Sanduíche",
+      "description": "Um uma delícia!",
+      "img": "https://i0.wp.com/kreativv.com/wp-content/uploads/2020/02/white-cream-on-white-bowl-1633525.jpg?resize=1024%2C1536&ssl=1",
+      "type": "Fast Food",
+      "price": 10
     },
     {
-      "id":5,
-      "name":"Panqueca",
-      "description":"Um uma delícia!",
-      "img":"https://lh3.googleusercontent.com/drive-viewer/AJc5JmRaZqb37pigw6f0eAmNnW7OJq6CVkp5iGCXhtwDBXzDwcn951Rfatmn9a2DO5MJBVS8RNhK3Ik=w958-h885",
-      "type":"Sobremesas",
-      "price":15
+      "id": 5,
+      "name": "Panqueca",
+      "description": "Um uma delícia!",
+      "img": "https://lh3.googleusercontent.com/drive-viewer/AJc5JmRaZqb37pigw6f0eAmNnW7OJq6CVkp5iGCXhtwDBXzDwcn951Rfatmn9a2DO5MJBVS8RNhK3Ik=w958-h885",
+      "type": "Sobremesas",
+      "price": 15
     },
     {
-      "id":6,
-      "name":"Pasta no Molho",
-      "description":"Um uma delícia!",
-      "img":"https://images.pexels.com/photos/4378158/pexels-photo-4378158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "type":"Pasta",
-      "price":15
+      "id": 6,
+      "name": "Pasta no Molho",
+      "description": "Um uma delícia!",
+      "img": "https://images.pexels.com/photos/4378158/pexels-photo-4378158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "type": "Pasta",
+      "price": 15
     },
     {
-      "id":7,
-      "name":"Limonada",
-      "description":"Muito refrescante!",
-      "img":"https://p0.piqsels.com/preview/298/784/901/citrus-close-up-cold-drinking-glasses.jpg",
-      "type":"Bebidas",
-      "price":10
+      "id": 7,
+      "name": "Limonada",
+      "description": "Muito refrescante!",
+      "img": "https://p0.piqsels.com/preview/298/784/901/citrus-close-up-cold-drinking-glasses.jpg",
+      "type": "Bebidas",
+      "price": 10
     },
     {
-      "id":8,
-      "name":"Gin Tônica",
-      "description":"Muito refrescante!",
-      "img":"https://www.wefashiontrends.com/wp-content/uploads/2019/10/agua-aromatizada-com-lavanda.jpg",
-      "type":"Bebidas",
-      "price":12
+      "id": 8,
+      "name": "Gin Tônica",
+      "description": "Muito refrescante!",
+      "img": "https://www.wefashiontrends.com/wp-content/uploads/2019/10/agua-aromatizada-com-lavanda.jpg",
+      "type": "Bebidas",
+      "price": 12
     }
   ],
-  "order":[
-  {
-    "id":"",
-    "requests":[]
-  }
-  ]
+  "order": []
 }
