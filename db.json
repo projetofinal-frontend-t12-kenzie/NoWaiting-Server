@@ -1,18 +1,18 @@
 {
   "users": [
     {
-      "email": "contato.gbernardo@gmail.com",
+      "email": "contato@gmail.com",
       "password": "$2a$10$Ijqe1wGJ42IdfvPhpBrwbutY8VJE8/q6Znvg4.aYzoqyXbmCgv.ee",
       "name": "Cantinho do sabor",
-      "contact": "21986368650",
-      "img": "https://avatars.githubusercontent.com/u/90667694?v=4",
+      "contact": "(21)98636-5555",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-s/1a/b8/46/6d/london-stock.jpg",
       "id": 1
     }
   ],
   "menu": [
     {
       "id": 1,
-      "name": "hamburguer",
+      "name": "Hamburguer",
       "description": "Um uma delícia!",
       "img": "https://lh3.googleusercontent.com/p/AF1QipM_Ca-n9gUMsNnfycFym2Sr6yEgk18A_lA9b4Iu=w768-h768-n-o-v1",
       "type": "Fast Food",
